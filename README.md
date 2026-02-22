@@ -8,5 +8,4 @@ Hi! I'm a 2nd year CSE student.
 - Learn Git & GitHub
 - Get an internship in 6 months
 
-### Progress Log:
-- Day 1: Started GitHub journey ✅
+
